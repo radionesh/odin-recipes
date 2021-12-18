@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color :rgb(197, 161, 0);
+    cursor : pointer;
+}
+
+a:hover {
+    color: grey;
+}
+
+h1 {
+    color: rgb(197, 161, 0);
+    border-bottom: 1px solid grey;
+}
+.menu {
+    list-style: none;
+}
+
+.recipe-img {
+    width: 400px;
+    height: auto;
+}
+
+
+
